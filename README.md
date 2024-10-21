@@ -1,2 +1,2 @@
 # terrqaform-repo
-it is terraform project repository
+it is new terraform project repository
